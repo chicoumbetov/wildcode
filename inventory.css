@@ -1,12 +1,8 @@
 .flex-container {
     display: flex;
-    justify-content: space-between;
-  }
-  table {
-    display: flex;
     justify-content: center;
-    
   }
+  
   a {
     background: #283b63;
     display: flex;
@@ -22,4 +18,5 @@
   
   header {
     text-align: center;
+    
   }

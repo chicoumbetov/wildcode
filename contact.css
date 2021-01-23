@@ -1,12 +1,9 @@
-.flex-container {
-    display: flex;
-    justify-content: space-between;
-  }
-  table {
-    display: flex;
-    justify-content: center;
-    
-  }
+#contact {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+  
   a {
     background: #283b63;
     display: flex;
